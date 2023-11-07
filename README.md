@@ -24,8 +24,8 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 
 
 # Authors
-## Rushikesh Waghule
+## Digvijay Shinde
 <ul>
-<li>Github:https://github.com/Rushikesh177</li>
+<li>Github:https://github.com/digvijayshinde01/</li>
 
 </ul>
